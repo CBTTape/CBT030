@@ -1,0 +1,7 @@
+2023-04-02 21:05:52.328542 - Initialized conversion of CBT030
+2023-04-02 21:05:52.365496 - Received CBT.V504.FILE030.PDS from FILE030.XMI 
+2023-04-02 21:05:52.368264 - Found $$$#DATE.txt (text/plain) in CBT.V504.FILE030.PDS, moved to PDS/$$$#DATE
+2023-04-02 21:05:52.369312 - Found $$$DOC.txt (text/plain) in CBT.V504.FILE030.PDS, moved to PDS/$$$DOC
+2023-04-02 21:05:52.370539 - Found @FILE030.txt (text/plain) in CBT.V504.FILE030.PDS, moved to PDS/@FILE030
+2023-04-02 21:05:52.371790 - Found NPFKU01.txt (text/plain) in CBT.V504.FILE030.PDS, moved to PDS/NPFKU01
+2023-04-02 21:05:52.372799 - Found NPFKX01.txt (text/plain) in CBT.V504.FILE030.PDS, moved to PDS/NPFKX01
